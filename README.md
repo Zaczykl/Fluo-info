@@ -12,7 +12,7 @@ wystawia dokumenty sprzedaży, prowadzi zwroty oraz korespondencję z kupującym
 
 ## Kto z niego korzysta
 Golpin sp. z o.o. do sprzedaży własnej oraz dwa inne podmioty, których towar
-leży w magazynie Golpin i których zamówienia Golpin kompletuje i wysyła.
+leży w magazynie firmy Golpin i których zamówienia Golpin kompletuje i wysyła.
 Każde konto sprzedażowe autoryzuje program samodzielnie (OAuth, device flow)
 i w każdej chwili może tę zgodę cofnąć.
 
